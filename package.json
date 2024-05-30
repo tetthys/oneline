@@ -1,0 +1,14 @@
+{
+  "name": "oneline",
+  "version": "0.0.1",
+  "description": "A simple community",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "tetthys",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
